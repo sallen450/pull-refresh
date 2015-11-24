@@ -1,0 +1,13 @@
+{
+    "extends": "airbnb",
+    "rules": {
+        "react/jsx-quotes": 0,
+        "indent": [2, 4],
+        "quotes": 0,
+        "strict": [0, "global"],
+        "no-console": 0,
+        "no-undef": 1,
+        "func-names": 0,
+        "id-length":  0
+    }
+}
